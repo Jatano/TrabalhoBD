@@ -33,6 +33,10 @@ Abrindo a sessao de query editor você cria os bancos de dados
 ![image](https://user-images.githubusercontent.com/22657927/127799074-fec8ac6f-93ed-4694-a33f-9152896b7a0a.png)
 ![image](https://user-images.githubusercontent.com/22657927/127799109-b2d45e38-fa8a-451e-a162-92c17323462c.png)
 
+
+Na ultima aba que é a de Serviços é praticamento o mesmo esquema da de venda 
+
+
 Fazendo download da pasta TRAB
 
 Entrando no diretorio trab/bd/bd/bin/BD.exe
