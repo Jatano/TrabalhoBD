@@ -37,6 +37,9 @@ Fazendo download da pasta TRAB
 
 Entrando no diretorio trab/bd/bd/bin/BD.exe
 
+Excute o BD.exe
+
+![image](https://user-images.githubusercontent.com/22657927/127800316-bb224cc5-a719-4873-97b1-130ac0cff2fc.png)
 
 
 
