@@ -48,14 +48,15 @@ Na primeira aba é possivel cadastrar o cliente
 Na segunda aba é possivel ver as tabelas do banco selecionando a tabela pela comboBox
 ![image](https://user-images.githubusercontent.com/22657927/127802134-d6fe7edc-c968-4119-9643-25972ff7c0d7.png)
 Na terceira aba é onde a venda é realizada pesquisando se o cliente é cadastrado se não é perguntado se deseja fazer  o cadastro 
-![image](https://user-images.githubusercontent.com/22657927/127802285-c861d8ae-f090-4499-abfb-4c73d6b20a9d.png)
+![image](https://user-images.githubusercontent.com/22657927/127804154-f4471817-03f2-4f71-ba70-425711779efc.png)
 Inserindo todos os dados restantes pode se fazer a pesquisa do produto pelo codigo de barras para saber se existe no banco de dados, existindo autmaticamente é adicionado 
 no gridview podendo assim gerenciar todos os produtos que seram vendidos
-![image](https://user-images.githubusercontent.com/22657927/127802658-f1dbe7c9-9cb5-4ae8-afb2-aad4e3cafb97.png)
+![image](https://user-images.githubusercontent.com/22657927/127804133-a6ffce76-fe77-48a8-9cfa-d1a19f294852.png)
 Logo depois pode se fazer o calculo do desconto aplicado na venda 
 ![image](https://user-images.githubusercontent.com/22657927/127802677-154fcfcb-344e-4517-a13a-bd5a72f2265c.png)
 Depois de tudo pronto só terminar a venda com o botão Finalizar
-
+Na ultima é o mesmo esquema da venda porém os dados vão ser referentes a um serviço realizado
+![image](https://user-images.githubusercontent.com/22657927/127804272-c49b059a-bc32-4424-9572-04086682ac00.png)
 
 
 
