@@ -206,7 +206,7 @@ namespace BD
             comboBox6.ValueMember = "usr_email";
             regBD = null;
             FecharBd();
-
+//savers
         }
 
 
